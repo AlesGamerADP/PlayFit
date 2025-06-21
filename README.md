@@ -8,11 +8,11 @@ También cuenta con una **aplicación móvil en desarrollo** hecha en Android St
 
 ## ✅ Beneficios
 
-- **Mide tu ritmo cardíaco** en tiempo real.
-- **Cuenta pasos, calorías y movimiento físico.**
-- **Te ayuda a mejorar tu rendimiento** durante el ejercicio.
-- **Es cómodo:** no molesta en la muñeca y va bien sujeto al brazo.
-- **Te motiva con metas diarias** para mantenerte activo.
+- Mide tu ritmo cardíaco en tiempo real.
+- Cuenta pasos, calorías y movimiento físico.
+- Te ayuda a mejorar tu rendimiento durante el ejercicio.
+- Es cómodo: no molesta en la muñeca y va bien sujeto al brazo.
+- Te motiva con metas diarias para mantenerte activo.
 
 ---
 
@@ -20,19 +20,19 @@ También cuenta con una **aplicación móvil en desarrollo** hecha en Android St
 
 Estos son los materiales principales usados para construir el brazalete inteligente **PlayFit**:
 
-- Cuerpo del brazalete con pantalla integrada
-- Pantalla OLED
-- Pulsómetro MAX (para medir los latidos del corazón)
-- Sensor de movimiento MPU6050 (detecta movimiento y orientación)
-- Módulo de carga (permite recargar la batería)
-- Batería Li-Po (ligera y recargable)
-- Arduino Nano ESP32 (microcontrolador que controla todo el sistema)
+- Cuerpo del brazalete con pantalla integrada  
+- Pantalla OLED  
+- Pulsómetro MAX (para medir los latidos del corazón)  
+- Sensor de movimiento MPU6050 (detecta movimiento y orientación)  
+- Módulo de carga (permite recargar la batería)  
+- Batería Li-Po (ligera y recargable)  
+- Arduino Nano ESP32 (microcontrolador que controla todo el sistema)  
 
 ---
 
 ## 📱 Aplicación móvil (en desarrollo)
 
-- Estamos creando una **app sencilla con Android Studio y Kotlin.**
+- Estamos creando una app sencilla con Android Studio y Kotlin.
 - Permitirá ver en el celular los datos como:
   - Ritmo cardíaco
   - Pasos
@@ -43,11 +43,13 @@ Estos son los materiales principales usados para construir el brazalete intelige
 
 ## 🌍 Impacto social
 
-- **Promueve la salud:** Ayuda a cuidar el cuerpo de forma sencilla.
-- **Motiva a moverse:** Ideal para combatir el sedentarismo.
-- **Fácil de usar para todos:** Pensado para jóvenes, adultos y deportistas.
-- **Puede ser accesible:** Con más desarrollo, podría llegar a más personas.
-- **Apoya la educación en salud:** Enseña a entender el cuerpo y sus señales.
+**PlayFit tiene un impacto social positivo porque:**
+
+- Promueve la salud y el movimiento diario.
+- Motiva a crear buenos hábitos físicos.
+- Enseña a las personas a entender mejor su cuerpo.
+- Puede ser accesible y útil en comunidades con menos acceso médico.
+- Fomenta la tecnología y la educación desde una idea sencilla.
 
 ---
 
@@ -73,3 +75,11 @@ Estos son los materiales principales usados para construir el brazalete intelige
 
 **PlayFit** es un **brazalete inteligente** simple y útil que puede ayudar a mejorar la vida de muchas personas. Con su uso y la app móvil, se puede controlar la salud, moverse más y aprender sobre el cuerpo de forma fácil y moderna.
 
+---
+
+## ✍️ Autores
+
+- Anchelia Delgado Sandra Sofía  
+- Dávila Pérez Alessandro Alberto  
+- García Castillejo Rafael Alonso  
+- Pérez Vengoa Héctor Henrique  
