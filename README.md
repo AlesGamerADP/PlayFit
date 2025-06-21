@@ -1,48 +1,75 @@
 # 💪 PlayFit - Brazalete inteligente para tu salud
 
-**PlayFit** es un **brazalete inteligente** que se coloca en el **bíceps** (parte superior del brazo) y te ayuda a moverte más, cuidar tu corazón y llevar una vida activa y saludable.
+**PlayFit** es un **brazalete inteligente** que se lleva en el **bíceps** y ayuda a las personas a moverse más, cuidar su corazón y mantenerse activas de forma sencilla.
+
+También cuenta con una **aplicación móvil en desarrollo** hecha en Android Studio con Kotlin, para mostrar los datos del brazalete de forma clara y fácil de usar.
 
 ---
 
 ## ✅ Beneficios
 
-- **Controla tu ritmo cardíaco:** Mide tus latidos durante el día y cuando haces ejercicio.
-- **Sigue tu movimiento:** Cuenta pasos, calorías y cuánta actividad realizas.
-- **Te ayuda a mejorar:** Ideal para entrenar y saber cuánto te estás esforzando.
-- **Cómodo y práctico:** No molesta en la muñeca y se ajusta muy bien al brazo.
-- **Motiva a estar activo:** Te anima a moverte y alcanzar metas diarias.
+- **Mide tu ritmo cardíaco** en tiempo real.
+- **Cuenta pasos, calorías y movimiento físico.**
+- **Te ayuda a mejorar tu rendimiento** durante el ejercicio.
+- **Es cómodo:** no molesta en la muñeca y va bien sujeto al brazo.
+- **Te motiva con metas diarias** para mantenerte activo.
 
 ---
 
-## 🌟 Oportunidades
+## 📦 Componentes del brazalete
 
-- **Cuidarse desde casa:** Las personas pueden vigilar su salud sin ir al médico.
-- **Nuevas funciones en el futuro:** Se pueden agregar mejoras al brazalete.
-- **Ideal para deportistas:** Proporciona datos útiles para entrenar mejor.
-- **Aprender sobre el cuerpo:** Ayuda a conocer cómo responde tu cuerpo al moverse.
-- **Nuevos trabajos en tecnología de salud:** Para crear apps, analizar datos y mejorar el brazalete.
+Estos son los materiales principales usados para construir el brazalete inteligente **PlayFit**:
+
+- Cuerpo del brazalete con pantalla integrada
+- Pantalla OLED
+- Pulsómetro MAX (para medir los latidos del corazón)
+- Sensor de movimiento MPU6050 (detecta movimiento y orientación)
+- Módulo de carga (permite recargar la batería)
+- Batería Li-Po (ligera y recargable)
+- Arduino Nano ESP32 (microcontrolador que controla todo el sistema)
+
+---
+
+## 📱 Aplicación móvil (en desarrollo)
+
+- Estamos creando una **app sencilla con Android Studio y Kotlin.**
+- Permitirá ver en el celular los datos como:
+  - Ritmo cardíaco
+  - Pasos
+  - Movimiento del día
+- La idea es que cualquier persona pueda ver su progreso fácilmente.
+
+---
+
+## 🌍 Impacto social
+
+- **Promueve la salud:** Ayuda a cuidar el cuerpo de forma sencilla.
+- **Motiva a moverse:** Ideal para combatir el sedentarismo.
+- **Fácil de usar para todos:** Pensado para jóvenes, adultos y deportistas.
+- **Puede ser accesible:** Con más desarrollo, podría llegar a más personas.
+- **Apoya la educación en salud:** Enseña a entender el cuerpo y sus señales.
 
 ---
 
 ## ⚠️ Retos
 
-- **Proteger los datos personales:** Asegurar que la información del usuario esté segura.
-- **Acceso limitado:** No todas las personas pueden comprar un brazalete.
-- **Evitar la dependencia:** No reemplaza buenos hábitos, solo los apoya.
-- **Precisión de los datos:** Puede fallar si no se coloca correctamente.
+- Proteger los datos personales del usuario.
+- Hacer el brazalete accesible para todos.
+- Asegurar que los datos sean lo más precisos posible.
+- No depender del brazalete para todo.
 
 ---
 
 ## 🛠️ Soluciones
 
-- **Reglas de privacidad:** Crear normas que protejan los datos de cada persona.
-- **Educación para el usuario:** Enseñar cómo usar bien el brazalete.
-- **Hacerlo más accesible:** Buscar formas de que más personas puedan tener uno.
-- **Mejorar el diseño:** Seguir desarrollando sensores más precisos y cómodos.
+- Crear normas para proteger la información.
+- Hacer una guía para que las personas aprendan a usarlo bien.
+- Buscar formas de reducir costos para hacerlo más accesible.
+- Seguir mejorando la tecnología del brazalete.
 
 ---
 
 ## 📌 Conclusión
 
-**PlayFit** es un **brazalete inteligente para el bíceps** que ayuda a las personas a **cuidar su salud, estar más activas y conocer mejor su cuerpo**. Es fácil de usar, útil y puede tener un gran impacto en la vida de muchos.
+**PlayFit** es un **brazalete inteligente** simple y útil que puede ayudar a mejorar la vida de muchas personas. Con su uso y la app móvil, se puede controlar la salud, moverse más y aprender sobre el cuerpo de forma fácil y moderna.
 
